@@ -1,0 +1,3 @@
+[1] https://marcobonzanini.com/2015/03/02/mining-twitter-data-withpython-part-1/
+[2] https://docs.inboundnow.com/guide/create-twitter-application/
+[3] https://github.com/ptwobrussell/Mining-the-Social-Web-2ndEdition/blob/master/ipynb/Chapter 1 - Mining Twitter.ipynb
